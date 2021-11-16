@@ -1,0 +1,12 @@
+# Credentials
+credentials
+*.pem
+*.pem.old
+
+# Terraform config files
+.terraform*
+terraform.tfstate.backup
+terraform.tfstate
+
+# Git config
+.git
